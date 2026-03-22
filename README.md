@@ -61,10 +61,10 @@ This project analyzes a real-world e-commerce sales dataset containing intention
 
 
 🌟 Why This Project?
-  This project simulates real-world data challenges and provides hands-on experience in:
-    > Data wrangling and quality assurance
-    > Business intelligence through data analysis
-    > Effective storytelling with data visualization
-    > Perfect for data analysts, data scientists, or anyone looking to strengthen their data analysis and visualization skills.
+This project simulates real-world data challenges and provides hands-on experience in:
+> Data wrangling and quality assurance
+> Business intelligence through data analysis
+> Effective storytelling with data visualization
+> Perfect for data analysts, data scientists, or anyone looking to strengthen their data analysis and visualization skills.
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 Note: This project is designed for educational and skill-building purposes. All data is synthetic with intentional flaws to simulate real-world scenarios.
