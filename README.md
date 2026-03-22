@@ -1,14 +1,14 @@
 🛒 E-Commerce Sales Data Analysis Project
 
 📌 Project Overview
-This project analyzes a real-world e-commerce sales dataset containing intentional data quality issues—such as missing values, inconsistent column names, formatting errors, outliers, and data entry mistakes. The goal is to clean, explore, and visualize the data to uncover meaningful insights into customer behavior, product preferences, and sales trends.
+> This project analyzes a real-world e-commerce sales dataset containing intentional data quality issues—such as missing values, inconsistent column names, formatting errors, outliers, and data entry mistakes. The goal is to clean, explore, and visualize the data to uncover meaningful insights into customer behavior, product preferences, and sales trends.
 
 
 🎯 Objectives
-> Data Cleaning: Address missing values, standardize column names, correct formatting, and handle outliers.
-> Exploratory Data Analysis (EDA): Understand the structure, distribution, and relationships within the dataset.
-> Data Visualization: Create clear, insightful visualizations to communicate findings.
-> Business Insights: Answer key questions about customer preferences and sales patterns.
+- Data Cleaning: Address missing values, standardize column names, correct formatting, and handle outliers.
+- Exploratory Data Analysis (EDA): Understand the structure, distribution, and relationships within the dataset.
+- Data Visualization: Create clear, insightful visualizations to communicate findings.
+- Business Insights: Answer key questions about customer preferences and sales patterns.
 
 
 🔍 Key Questions Addressed
@@ -23,10 +23,10 @@ This project analyzes a real-world e-commerce sales dataset containing intention
 
 
 🛠️ Tools & Technologies
-> Python (Pandas, NumPy, Matplotlib, Seaborn)
-> Data Cleaning & Preprocessing
-> Exploratory Data Analysis (EDA)
-> Data Visualization
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
 
 
 📊 Project Workflow
@@ -54,17 +54,17 @@ This project analyzes a real-world e-commerce sales dataset containing intention
 
 
 🧩 Deliverables
-> Cleaned and well-structured dataset
-> Interactive visualizations (e.g., bar plots, time series)
-> Summary report with key insights
-> Code repository with documented steps
+- Cleaned and well-structured dataset
+- Interactive visualizations (e.g., bar plots, time series)
+- Summary report with key insights
+- Code repository with documented steps
 
 
 🌟 Why This Project?
-This project simulates real-world data challenges and provides hands-on experience in:
-> Data wrangling and quality assurance
-> Business intelligence through data analysis
-> Effective storytelling with data visualization
-> Perfect for data analysts, data scientists, or anyone looking to strengthen their data analysis and visualization skills.
+> This project simulates real-world data challenges and provides hands-on experience in:
+- Data wrangling and quality assurance
+- Business intelligence through data analysis
+- Effective storytelling with data visualization
+- Perfect for data analysts, data scientists, or anyone looking to strengthen their data analysis and visualization skills.
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 Note: This project is designed for educational and skill-building purposes. All data is synthetic with intentional flaws to simulate real-world scenarios.
